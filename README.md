@@ -9,7 +9,7 @@ As you start planning your composition, consider: What ideas do *you* want help 
 ## Generative constraints
 
 **Baseline criteria** \
-_Th 2/13 draft_
+_to be updated in class on Th 10/1_
 
 For a minimum grade of B, all projects for this unit must:
 
@@ -19,25 +19,16 @@ For a minimum grade of B, all projects for this unit must:
 * If using no words, be sure to clarify your intention and choice in the reflection
 * Use a purposeful color palette
 * Use at least 3 layers
-* Use at least 1 GIMP tool beyond select, move, and text (e.g. dodge, burn, clone tool, stamp tool)
+* Use at least 1 GIMP tool beyond select, move, and text (e.g. align, dodge, clone, stamp, etc)
 * For all of the above, argue in the reflection why you did what you did
 
 
 **Aspirational inspirations**
 To target (but not guarantee) a grade above a B, the best projects for this unit may...
 
-* Collaborate with the machine by using GIMP automated tools/filters/effects (gradients, blur, etc)
-* Incorporate surprising juxtaposition (as appropriate)
-* Use overlapping pictures/sizing to showcase depth and distance, create 3D space
-* Use folders to group layers
-* Use layer masks for advanced combining / reveals etc
-* Practice using additional GIMP tools/filters that are new to you
-* Create the illusion of seamlessness
-* Create your own visual assets (photography, drawing, etc)
-* Use “[keywords toward a visual rhetoric](https://docs.google.com/document/d/18QF00VYOEYDVJ2ciloO0jzZxE3MBaetN-ooVeuHVVLQ/edit#heading=h.fhi9jgmnxpx8)” (scale, density, etc) to analyze/explain your design
 * Demonstrate that viewers understand your intention
 * Use git/GitHub with meaningful commit messages, if that’s still new/challenging
-
+* etc
 
 
 
