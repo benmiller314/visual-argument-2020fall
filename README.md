@@ -8,27 +8,30 @@ As you start planning your composition, consider: What ideas do *you* want help 
 
 ## Generative constraints
 
-**Baseline criteria** \
-_to be updated in class on Th 10/1_
+**Baseline Criteria** \
+_Updated on Th 2020-10-01_ \
+For a minimum grade of B, all projects for this unit must…
 
-For a minimum grade of B, all projects for this unit must:
-
-* Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention
-* Have a clear message or intervention
-* If including at least one word, use a carefully chosen font
-* If using no words, be sure to clarify your intention and choice in the reflection
-* Use a purposeful color palette
+* Guide viewers' attention using at least one design strategy among Dominance & Hierarchy (strong contrasts), Positive/Negative space, or Rhythm & Movement
+* Have a clear message or intervention that you can articulate
+* If including words, choose a font that matches the style/tone of your piece
+* If not using words, clarify your message and this choice in the reflection
+* For all of the above, explain your choices in the reflection
+* Credit all assets correctly, including attribution (creator names) where required
 * Use at least 3 layers
-* Use at least 1 GIMP tool beyond select, move, and text (e.g. align, dodge, clone, stamp, etc)
-* For all of the above, argue in the reflection why you did what you did
+* Use at least 1 tool beyond select, move, and text
 
 
-**Aspirational inspirations**
-To target (but not guarantee) a grade above a B, the best projects for this unit may...
+**Aspirational Inspirations** \
+To target (but not guarantee) a grade above a B, the best projects for this unit may…
 
-* Demonstrate that viewers understand your intention
-* Use git/GitHub with meaningful commit messages, if that’s still new/challenging
-* etc
+* Use multiple design strategies in ways that compliment each other (whether to reinforce a single shared focus or to add nuance / surprise down the hierarchy)
+* Have a clear message/focus that others can articulate without your text (as shown in their feedback)
+* Use more than 3 tools beyond select, move, and text that are new to you
+* If using multiple fonts, use fonts that pair well (refer to readings)
+* Organize the canvas toward simple, minimalist design (slogan/headline, not paragraphs)
+* Organize your files through layer labeling, layer groups, repo structure
+* Use meaningful commit messages that say what’s changing (and maybe even why)
 
 
 
