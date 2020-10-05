@@ -2,6 +2,8 @@
 
 - Arm in Air.png
   - Created by Brad Avison from [The Noun Project](https://thenounproject.com/search/?q=man&i=347812)
+- Arms Crossed.png
+  - Created by Gan Khoon Lay from [The Noun Project](https://thenounproject.com/search/?q=arms+crossed&i=1926296)
 - Person.png
   - Created by Sonal Nagwani from [The Noun Project](https://thenounproject.com/search/?q=person&i=3401339)
 - Pointing Left.png
