@@ -16,3 +16,5 @@
   - Created by Adrien Coquet from [The Noun Project](https://thenounproject.com/search/?q=step&i=3203226)
 - Talking.png
   - Created by Gan Khoon Lay from [The Noun Project](https://thenounproject.com/search/?q=talking+stickman&i=1584739)
+
+All files are made available under Creative Commons Zero 1.0 Universal License
