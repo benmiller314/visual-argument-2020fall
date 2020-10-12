@@ -1,1 +1,1 @@
-This visual argument project is meant to emulate a travel poster encouraging US citizens to visit the Pacific islands. I still have to align some layers so that they appear more symmetrical. I am not completely set on the black boxes. I created them using the rectangle tool. 
+This visual argument project is meant to emulate a travel poster encouraging US citizens to visit the Pacific islands. The bubbles represent daydreaming by using rhythm and movement (like a comic).  
